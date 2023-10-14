@@ -2,7 +2,7 @@
 LVGL 8 Demo for PayBox A2 With Arduino
 
 #### Screenshot
-![sample](https://raw.githubusercontent.com/zhuhai-esp/PayBoxA2-LVWatch/main/misc/screen.gif)
+![sample](https://cdn.jsdelivr.net/gh/zhuhai-esp/PayBoxA2-LVWatch/misc/screen.gif)
 
 #### Ported and features
 * LovyanGFX
